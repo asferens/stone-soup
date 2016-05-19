@@ -1,3 +1,9 @@
-# stone-soup
+# Stone Soup
 
-## Stonesoup Syndicate - Community publication
+### Syndicate  
+
+Community publication
+
+***
+
+##### Initiated and developed by [Graphic Activity](http://graphicactivity.co.nz)
