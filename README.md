@@ -1,3 +1,3 @@
 # stone-soup
 
-Stonesoup Syndicate - Community publication
+## Stonesoup Syndicate - Community publication
